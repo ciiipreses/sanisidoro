@@ -1,0 +1,268 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://ciiipreses.github.io/sanisidoro/iiif/bfhdok-affesc4mgnhlbi/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            null
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Rights holder"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Public Domain"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Illuminator(s)"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Cypresses Group (Nicolás Gómez)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Title"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Initial T with Jeronymite Monks at the Dedication of an Altar"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    ": Date created"
+                ]
+            },
+            "value": {
+                "none": [
+                    "c. 1470-90"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Collection"
+                ]
+            },
+            "value": {
+                "none": [
+                    "National Gallery of Art, Washington"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Collection inventory number"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1964.8.1219"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Illuminated manuscript cutting"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Visual description"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Initial T formed with heads and bodies of dragons, with the head of a bearded man, enclosing a historiated scene with Observant Jeronymite friars singing from a choir book at an altar with a lion-headed spout at the base from which water flows into a ravine at which a bearded and kneeling prophet figure washes."
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Dimensions"
+                ]
+            },
+            "value": {
+                "none": [
+                    "overall: 18.6 x 22.4 cm"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Media"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Miniature on vellum"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Created for use of"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Monastery of San Isidoro del Campo"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Initial type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Historiated initial"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Wikidata identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "https://www.wikidata.org/wiki/Q64608113"
+                ]
+            }
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "https://ciiipreses.github.io/sanisidoro/iiif/bfhdok-affesc4mgnhlbi/c61b388a06947c8e5a833826cd5ec765/full/300,277/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 277,
+            "width": 300
+        }
+    ],
+    "items": [
+        {
+            "id": "https://ciiipreses.github.io/sanisidoro/iiif/bfhdok-affesc4mgnhlbi/canvas/1",
+            "type": "Canvas",
+            "height": 3791,
+            "width": 4096,
+            "label": {
+                "none": [
+                    "Initial T with Jeronymite Monks at the Dedication of an Altar"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://ciiipreses.github.io/sanisidoro/iiif/bfhdok-affesc4mgnhlbi/c61b388a06947c8e5a833826cd5ec765/full/300,277/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 277,
+                    "width": 300
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://ciiipreses.github.io/sanisidoro/iiif/bfhdok-affesc4mgnhlbi/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://ciiipreses.github.io/sanisidoro/iiif/bfhdok-affesc4mgnhlbi/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://ciiipreses.github.io/sanisidoro/iiif/bfhdok-affesc4mgnhlbi/canvas/1",
+                            "body": {
+                                "id": "https://ciiipreses.github.io/sanisidoro/iiif/bfhdok-affesc4mgnhlbi/c61b388a06947c8e5a833826cd5ec765/full/2000,1851/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1851,
+                                "width": 2000,
+                                "service": [
+                                    {
+                                        "id": "https://ciiipreses.github.io/sanisidoro/iiif/bfhdok-affesc4mgnhlbi/c61b388a06947c8e5a833826cd5ec765",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://ciiipreses.github.io/sanisidoro/iiif/bfhdok-affesc4mgnhlbi/canvas/1/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://ciiipreses.github.io/sanisidoro/iiif/bfhdok-affesc4mgnhlbi/canvas/1/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://ciiipreses.github.io/sanisidoro/iiif/bfhdok-affesc4mgnhlbi/canvas/1#xywh=964,1139,502,554",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Depiction of a gilded altarpiece with Saint Paul (left, in red) and Saint Peter (right, in blue) holding representations of liturgical texts.</p>"
+                            }
+                        },
+                        {
+                            "id": "https://ciiipreses.github.io/sanisidoro/iiif/bfhdok-affesc4mgnhlbi/canvas/1/annopage-2/anno-2",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://ciiipreses.github.io/sanisidoro/iiif/bfhdok-affesc4mgnhlbi/canvas/1#xywh=1549,952,544,318",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Metapictorial choir book with musical notation for the chant <em>Terribilis est locus iste</em> (Cantus ID <a href=\"https://cantusindex.org/id/007763\">007763</a>) at right, corresponding to the original liturgical context for this historiated initial&nbsp;‘T’.</p>"
+                            }
+                        },
+                        {
+                            "id": "https://ciiipreses.github.io/sanisidoro/iiif/bfhdok-affesc4mgnhlbi/canvas/1/annopage-2/anno-3",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://ciiipreses.github.io/sanisidoro/iiif/bfhdok-affesc4mgnhlbi/canvas/1#xywh=1535,1294,653,809",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>A brown-robed Observant Jeronymite friar prays over an altar covered with a white cloth. Founded by Lope de Olmedo (<a href=\"https://www.wikidata.org/wiki/Q55835391\">Q55835391</a>), the Observant Jeronymites were centered at the monastery of San Isidoro del Campo (<a href=\"https://www.wikidata.org/wiki/Q778571\">Q778571</a>) in Santiponce, near Seville, and existed as an independent branch of the Order of Saint Jerome (<a href=\"https://www.wikidata.org/wiki/Q1474312\">Q1474312</a>).</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

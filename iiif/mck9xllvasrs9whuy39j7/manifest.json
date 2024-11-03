@@ -1,0 +1,227 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://ciiipreses.github.com/sanisidoro/mck9xllvasrs9whuy39j7/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            null
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Rights holder"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Public Domain"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Illuminator(s)"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Cypresses Group (Nicolás Gómez)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Title"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Initial D with David"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    ": Date created"
+                ]
+            },
+            "value": {
+                "none": [
+                    "c. 1470-90"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Collection"
+                ]
+            },
+            "value": {
+                "none": [
+                    "National Gallery of Art, Washington"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Collection inventory number"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1964.8.1230"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Illuminated manuscript cutting"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Visual description"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Initial D formed with foliates enclosing a historiated scene with King David seated on a bed under a canopy with pillows, holding a long unfurled scroll, with a tiled floor."
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Dimensions"
+                ]
+            },
+            "value": {
+                "none": [
+                    "overall: 13.8 x 16.4 cm"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Media"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Miniature on vellum"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Created for use of"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Monastery of San Isidoro del Campo"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Initial type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Historiated initial"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Wikidata identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "https://www.wikidata.org/wiki/Q64608172"
+                ]
+            }
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "https://ciiipreses.github.com/sanisidoro/mck9xllvasrs9whuy39j7/c1973a36774c6622244e2a4bb2227930/full/300,284/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 284,
+            "width": 300
+        }
+    ],
+    "items": [
+        {
+            "id": "https://ciiipreses.github.com/sanisidoro/mck9xllvasrs9whuy39j7/canvas/1",
+            "type": "Canvas",
+            "height": 3874,
+            "width": 4096,
+            "label": {
+                "none": [
+                    "Initial D with David"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://ciiipreses.github.com/sanisidoro/mck9xllvasrs9whuy39j7/c1973a36774c6622244e2a4bb2227930/full/300,284/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 284,
+                    "width": 300
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://ciiipreses.github.com/sanisidoro/mck9xllvasrs9whuy39j7/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://ciiipreses.github.com/sanisidoro/mck9xllvasrs9whuy39j7/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://ciiipreses.github.com/sanisidoro/mck9xllvasrs9whuy39j7/canvas/1",
+                            "body": {
+                                "id": "https://ciiipreses.github.com/sanisidoro/mck9xllvasrs9whuy39j7/c1973a36774c6622244e2a4bb2227930/full/2000,1892/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1892,
+                                "width": 2000,
+                                "service": [
+                                    {
+                                        "id": "https://ciiipreses.github.com/sanisidoro/mck9xllvasrs9whuy39j7/c1973a36774c6622244e2a4bb2227930",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

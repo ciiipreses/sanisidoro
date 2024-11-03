@@ -1,0 +1,30 @@
+{
+  "@context": "http://iiif.io/api/image/3/context.json",
+  "id": "https://ciiipreses.github.com/sanisidoro/nsaungvbozvzhvl5iajqm/67b892aea62ae325d33ed7cdb9f56c7b",
+  "type": "ImageService3",
+  "profile": "level0",
+  "protocol": "http://iiif.io/api/image",
+  "tiles": [
+    {
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ],
+      "width": 256
+    }
+  ],
+  "width": 4096,
+  "height": 3968,
+  "sizes": [
+    {
+      "width": 300,
+      "height": 291
+    },
+    {
+      "width": 2000,
+      "height": 1938
+    }
+  ]
+}

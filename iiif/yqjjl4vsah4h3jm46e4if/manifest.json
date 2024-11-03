@@ -1,0 +1,227 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://ciiipreses.github.com/sanisidoro/yqjjl4vsah4h3jm46e4if/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            null
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Rights holder"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Public Domain"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Illuminator(s)"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Cypresses Group (Nicolás Gómez)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Title"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Initial A with David in Prayer"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    ": Date created"
+                ]
+            },
+            "value": {
+                "none": [
+                    "c. 1470-90"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Collection"
+                ]
+            },
+            "value": {
+                "none": [
+                    "National Gallery of Art, Washington"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Collection inventory number"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1964.8.1225"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Illuminated manuscript cutting"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Visual description"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Initial A forming the head and body of a dragon enclosing a historiated scene with King David kneeling in prayer on a tile floor in front of a grass-covered banquette with books and a white flail."
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Dimensions"
+                ]
+            },
+            "value": {
+                "none": [
+                    "overall: 15 x 18.4 cm"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Media"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Miniature on vellum"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Created for use of"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Monastery of San Isidoro del Campo"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Initial type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Historiated initial"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Wikidata identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "https://www.wikidata.org/wiki/Q64608131"
+                ]
+            }
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "https://ciiipreses.github.com/sanisidoro/yqjjl4vsah4h3jm46e4if/b990149e8c6e8dfa46695282c418f73e/full/300,281/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 281,
+            "width": 300
+        }
+    ],
+    "items": [
+        {
+            "id": "https://ciiipreses.github.com/sanisidoro/yqjjl4vsah4h3jm46e4if/canvas/1",
+            "type": "Canvas",
+            "height": 3833,
+            "width": 4096,
+            "label": {
+                "none": [
+                    "Initial A with David in Prayer"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://ciiipreses.github.com/sanisidoro/yqjjl4vsah4h3jm46e4if/b990149e8c6e8dfa46695282c418f73e/full/300,281/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 281,
+                    "width": 300
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://ciiipreses.github.com/sanisidoro/yqjjl4vsah4h3jm46e4if/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://ciiipreses.github.com/sanisidoro/yqjjl4vsah4h3jm46e4if/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://ciiipreses.github.com/sanisidoro/yqjjl4vsah4h3jm46e4if/canvas/1",
+                            "body": {
+                                "id": "https://ciiipreses.github.com/sanisidoro/yqjjl4vsah4h3jm46e4if/b990149e8c6e8dfa46695282c418f73e/full/2000,1872/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1872,
+                                "width": 2000,
+                                "service": [
+                                    {
+                                        "id": "https://ciiipreses.github.com/sanisidoro/yqjjl4vsah4h3jm46e4if/b990149e8c6e8dfa46695282c418f73e",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

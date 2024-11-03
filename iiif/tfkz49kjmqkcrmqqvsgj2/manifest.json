@@ -1,0 +1,227 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://ciiipreses.github.com/sanisidoro/tfkz49kjmqkcrmqqvsgj2/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            null
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Rights holder"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Public Domain"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Illuminator(s)"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Cypresses Group"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Title"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Initial D"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    ": Date created"
+                ]
+            },
+            "value": {
+                "none": [
+                    "c. 1470-90"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Collection"
+                ]
+            },
+            "value": {
+                "none": [
+                    "National Gallery of Art, Washington"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Collection inventory number"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1964.8.1221"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Illuminated manuscript cutting"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Visual description"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Initial D enclosing a single dragon surrounded by foliates and flowers."
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Dimensions"
+                ]
+            },
+            "value": {
+                "none": [
+                    " overall: 17 x 21.5 cm"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Media"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Miniature on vellum"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Created for use of"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Monastery of San Isidoro del Campo"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Initial type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Decorative initial"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Wikidata identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "https://www.wikidata.org/wiki/Q64608120"
+                ]
+            }
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "https://ciiipreses.github.com/sanisidoro/tfkz49kjmqkcrmqqvsgj2/a81d030d0431206a1286830eaa63d5dc/full/300,256/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 256,
+            "width": 300
+        }
+    ],
+    "items": [
+        {
+            "id": "https://ciiipreses.github.com/sanisidoro/tfkz49kjmqkcrmqqvsgj2/canvas/1",
+            "type": "Canvas",
+            "height": 3501,
+            "width": 4096,
+            "label": {
+                "none": [
+                    "Initial D"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://ciiipreses.github.com/sanisidoro/tfkz49kjmqkcrmqqvsgj2/a81d030d0431206a1286830eaa63d5dc/full/300,256/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 256,
+                    "width": 300
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://ciiipreses.github.com/sanisidoro/tfkz49kjmqkcrmqqvsgj2/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://ciiipreses.github.com/sanisidoro/tfkz49kjmqkcrmqqvsgj2/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://ciiipreses.github.com/sanisidoro/tfkz49kjmqkcrmqqvsgj2/canvas/1",
+                            "body": {
+                                "id": "https://ciiipreses.github.com/sanisidoro/tfkz49kjmqkcrmqqvsgj2/a81d030d0431206a1286830eaa63d5dc/full/2000,1709/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1709,
+                                "width": 2000,
+                                "service": [
+                                    {
+                                        "id": "https://ciiipreses.github.com/sanisidoro/tfkz49kjmqkcrmqqvsgj2/a81d030d0431206a1286830eaa63d5dc",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

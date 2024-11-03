@@ -1,0 +1,227 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://ciiipreses.github.io/sanisidoro/un9lq0stjyqifmk9v8sqr/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            null
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Rights holder"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Public Domain"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Illuminator(s)"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Cypresses Group (Nicolás Gómez)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Title"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Initial L with Isaiah"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    ": Date created"
+                ]
+            },
+            "value": {
+                "none": [
+                    "c. 1470-90"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Collection"
+                ]
+            },
+            "value": {
+                "none": [
+                    "National Gallery of Art, Washington"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Collection inventory number"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1964.8.1229"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Illuminated manuscript cutting"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Visual description"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Initial L formed with foliates enclosing a historiated scene with Isaiah seated under a canopy at a desk with a book, a scroll, a flail, an empty candle stick and a ball of yarn on two stacked oval-shaped boxes, with a tiled floor."
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Dimensions"
+                ]
+            },
+            "value": {
+                "none": [
+                    "overall: 17 x 18.2 cm"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Media"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Miniature on vellum"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Created for use of"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Monastery of San Isidoro del Campo"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Initial type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Historiated initial"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Wikidata identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "https://www.wikidata.org/wiki/Q64608169"
+                ]
+            }
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "https://ciiipreses.github.io/sanisidoro/un9lq0stjyqifmk9v8sqr/a301830cdece1ce1a98c6135f6bb0c24/full/300,294/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 294,
+            "width": 300
+        }
+    ],
+    "items": [
+        {
+            "id": "https://ciiipreses.github.io/sanisidoro/un9lq0stjyqifmk9v8sqr/canvas/1",
+            "type": "Canvas",
+            "height": 4023,
+            "width": 4096,
+            "label": {
+                "none": [
+                    "Initial L with Isaiah"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://ciiipreses.github.io/sanisidoro/un9lq0stjyqifmk9v8sqr/a301830cdece1ce1a98c6135f6bb0c24/full/300,294/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 294,
+                    "width": 300
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://ciiipreses.github.io/sanisidoro/un9lq0stjyqifmk9v8sqr/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://ciiipreses.github.io/sanisidoro/un9lq0stjyqifmk9v8sqr/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://ciiipreses.github.io/sanisidoro/un9lq0stjyqifmk9v8sqr/canvas/1",
+                            "body": {
+                                "id": "https://ciiipreses.github.io/sanisidoro/un9lq0stjyqifmk9v8sqr/a301830cdece1ce1a98c6135f6bb0c24/full/2000,1964/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1964,
+                                "width": 2000,
+                                "service": [
+                                    {
+                                        "id": "https://ciiipreses.github.io/sanisidoro/un9lq0stjyqifmk9v8sqr/a301830cdece1ce1a98c6135f6bb0c24",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

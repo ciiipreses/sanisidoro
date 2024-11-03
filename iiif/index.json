@@ -1,0 +1,147 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://ciiipreses.github.io/sanisidoro/index.json",
+    "type": "Collection",
+    "label": {
+        "none": [
+            "San Isidoro Choir Book Cuttings"
+        ]
+    },
+    "thumbnail": [
+        {
+            "id": "https://ciiipreses.github.io/sanisidoro/7ebmpmhy3gv-ispbafkmq/61cd7fc7e57bc2090782a60859b5557c/full/300,285/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 285,
+            "width": 300
+        }
+    ],
+    "items": [
+        {
+            "id": "https://ciiipreses.github.io/sanisidoro/7ebmpmhy3gv-ispbafkmq/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    null
+                ]
+            }
+        },
+        {
+            "id": "https://ciiipreses.github.io/sanisidoro/4wz3hllcvpmkgrueniekj/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    null
+                ]
+            }
+        },
+        {
+            "id": "https://ciiipreses.github.io/sanisidoro/bfhdok-affesc4mgnhlbi/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    null
+                ]
+            }
+        },
+        {
+            "id": "https://ciiipreses.github.io/sanisidoro/tfkz49kjmqkcrmqqvsgj2/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    null
+                ]
+            }
+        },
+        {
+            "id": "https://ciiipreses.github.io/sanisidoro/0cjv6m9mobur4zmnemnoc/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    null
+                ]
+            }
+        },
+        {
+            "id": "https://ciiipreses.github.io/sanisidoro/4-udm7l_au2u2ne1tklwc/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    null
+                ]
+            }
+        },
+        {
+            "id": "https://ciiipreses.github.io/sanisidoro/fpcuwdlp84zshvfgd13jx/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    null
+                ]
+            }
+        },
+        {
+            "id": "https://ciiipreses.github.io/sanisidoro/yqjjl4vsah4h3jm46e4if/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    null
+                ]
+            }
+        },
+        {
+            "id": "https://ciiipreses.github.io/sanisidoro/d4sxa1daryprprungwr-f/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    null
+                ]
+            }
+        },
+        {
+            "id": "https://ciiipreses.github.io/sanisidoro/fwaecaen0j3ts06hps3dt/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    null
+                ]
+            }
+        },
+        {
+            "id": "https://ciiipreses.github.io/sanisidoro/nsaungvbozvzhvl5iajqm/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    null
+                ]
+            }
+        },
+        {
+            "id": "https://ciiipreses.github.io/sanisidoro/un9lq0stjyqifmk9v8sqr/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    null
+                ]
+            }
+        },
+        {
+            "id": "https://ciiipreses.github.io/sanisidoro/mck9xllvasrs9whuy39j7/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    null
+                ]
+            }
+        },
+        {
+            "id": "https://ciiipreses.github.io/sanisidoro/84hn6gupon08xkhsmuxul/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    null
+                ]
+            }
+        }
+    ]
+}

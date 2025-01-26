@@ -167,11 +167,11 @@
     ],
     "thumbnail": [
         {
-            "id": "https://ciiipreses.github.io/sanisidoro/iiif/bfhdok-affesc4mgnhlbi/c61b388a06947c8e5a833826cd5ec765/full/300,277/0/default.jpg",
+            "id": "https://ciiipreses.github.io/sanisidoro/iiif/bfhdok-affesc4mgnhlbi/c61b388a06947c8e5a833826cd5ec765/full/2000,1851/0/default.jpg",
             "type": "Image",
             "format": "image/jpeg",
-            "height": 277,
-            "width": 300
+            "height": 1100,
+            "width": 1018
         }
     ],
     "items": [

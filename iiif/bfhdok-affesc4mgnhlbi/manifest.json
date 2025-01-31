@@ -235,7 +235,7 @@
                             "body": {
                                 "type": "TextualBody",
                                 "format": "text/html",
-                                "value": "<p>Depiction of a gilded altarpiece with Saint Paul (left, in red) and Saint Peter (right, in blue) holding representations of liturgical texts.</p>"
+                                "value": "Depiction of a gilded altarpiece with Saint Paul (left, in red) and Saint Peter (right, in blue) holding representations of liturgical texts."
                             }
                         },
                         {
@@ -246,7 +246,7 @@
                             "body": {
                                 "type": "TextualBody",
                                 "format": "text/html",
-                                "value": "<p>Metapictorial choir book with musical notation for the chant <em>Terribilis est locus iste</em> (Cantus ID <a href=\"https://cantusindex.org/id/007763\">007763</a>) at right, the original liturgical context for this initial&nbsp;‘T’.</p>"
+                                "value": "Metapictorial choir book with musical notation for the chant <em>Terribilis est locus iste</em> (Cantus ID <a href=\"https://cantusindex.org/id/007763\">007763</a>) at right, the original liturgical context for this initial&nbsp;‘T’."
                             }
                         },
                         {
@@ -257,7 +257,7 @@
                             "body": {
                                 "type": "TextualBody",
                                 "format": "text/html",
-                                "value": "<p>A brown-robed Observant Jeronymite friar prays over an altar covered with a white cloth.</p>"
+                                "value": "A brown-robed Observant Jeronymite friar prays over an altar covered with a white cloth."
                             }
                         }
                     ]

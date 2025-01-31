@@ -246,7 +246,7 @@
                             "body": {
                                 "type": "TextualBody",
                                 "format": "text/html",
-                                "value": "<p>Metapictorial choir book with musical notation for the chant <em>Terribilis est locus iste</em> (Cantus ID <a href=\"https://cantusindex.org/id/007763\">007763</a>) at right, corresponding to the original liturgical context for this historiated initial&nbsp;‘T’.</p>"
+                                "value": "<p>Metapictorial choir book with musical notation for the chant <em>Terribilis est locus iste</em> (Cantus ID <a href=\"https://cantusindex.org/id/007763\">007763</a>) at right, the original liturgical context for this initial&nbsp;‘T’.</p>"
                             }
                         },
                         {
@@ -257,7 +257,7 @@
                             "body": {
                                 "type": "TextualBody",
                                 "format": "text/html",
-                                "value": "<p>A brown-robed Observant Jeronymite friar prays over an altar covered with a white cloth. Founded by Lope de Olmedo (<a href=\"https://www.wikidata.org/wiki/Q55835391\">Q55835391</a>), the Observant Jeronymites were centered at the monastery of San Isidoro del Campo (<a href=\"https://www.wikidata.org/wiki/Q778571\">Q778571</a>) in Santiponce, near Seville, and existed as an independent branch of the Order of Saint Jerome (<a href=\"https://www.wikidata.org/wiki/Q1474312\">Q1474312</a>).</p>"
+                                "value": "<p>A brown-robed Observant Jeronymite friar prays over an altar covered with a white cloth.</p>"
                             }
                         }
                     ]
